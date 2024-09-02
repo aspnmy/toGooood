@@ -27,4 +27,5 @@ worke部署选择git或者update，即可运行
 本地拉取后，先输入 npm install 安装组件
 然后在 npm run bud 编译重新上传worker即可
 
+## 更新源 https://github.com/aspnmy/toGooood.git
 
