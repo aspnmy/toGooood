@@ -5,7 +5,7 @@
 └─toGoVV/(vless + tls + clash 节点)
 
 
-## toGoVV：vless + tls + cla节点
+## toGoVV：vless + tls + ws + sb + clash节点
 
 worke部署选择git或者update，即可运行
 本地拉取后，先输入 npm install 安装组件
